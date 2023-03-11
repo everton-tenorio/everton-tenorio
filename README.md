@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-My name is Everton, I’m 28 years old. Undergraduate Student BSc Information Systems, currently working with Backend Development.
+Everton Tenorio in here, I’m 29 years old. Undergraduate Student BSc Information Systems, currently working with Backend Development.
 
 Always seeking theoretical and practical knowledge regarding software development best practices, devops culture, cloud computing, automation and troubleshooting.
-
           
 :earth_americas: Living in Maceió, Brazil      
 
