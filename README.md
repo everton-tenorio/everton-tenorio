@@ -1,4 +1,4 @@
-### Hi there 👋
+<!---### Hi there 👋
 
 Everton Tenorio in here, I’m 29 years old. Undergraduate Student BSc Information Systems, currently working with Backend Development.
 
@@ -16,7 +16,7 @@ Always seeking theoretical and practical knowledge regarding software developmen
 <img align="left" width="90px" alt="PostgreSQL" src="https://i.ibb.co/gZxdKd4/oie-l-UMazof-Mm7c-M.png" />
 
 
-<!---
+
 everton-tenorio/everton-tenorio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
