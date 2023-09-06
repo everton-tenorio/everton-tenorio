@@ -1,4 +1,4 @@
-Hello world 👋
+Hello world 🤙🏽
 
 Working as a Tech Professional since 2018, primarily in IT Infrastructure. In 2021, I leveled up my career as a Junior Developer, diving into projects that included web scraping, data analysis, and APIs. 
 
