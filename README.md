@@ -1,6 +1,8 @@
-<!---### Hi there 👋
+Hello world 👋
 
-Everton Tenorio in here, I’m 29 years old. Undergraduate Student BSc Information Systems, currently working with Backend Development.
+Working as a Tech Professional since 2018, primarily in IT Infrastructure. In 2021, I leveled up my career as a Junior Developer, diving into projects that included web scraping, data analysis, and APIs. I've been doing backend work, and occasionally dabbling in frontend too. Plus, I've been actively involved in the whole software life cycle, following DevOps principles with a focus on security best practices.
+
+<!---### Hi there 👋
 
 Always seeking theoretical and practical knowledge regarding software development best practices, devops culture, cloud computing, automation and troubleshooting.
           
@@ -15,8 +17,5 @@ Always seeking theoretical and practical knowledge regarding software developmen
 <img align="left" width="26px" alt="Vue" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" />
 <img align="left" width="90px" alt="PostgreSQL" src="https://i.ibb.co/gZxdKd4/oie-l-UMazof-Mm7c-M.png" />
 
-
-
-everton-tenorio/everton-tenorio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+ 
 --->
