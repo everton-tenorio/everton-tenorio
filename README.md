@@ -19,11 +19,11 @@ I've been doing backend work, and occasionally dabbling in frontend too, involve
 
 > Some projects:
   
-  <p><a href="https://github.com/everton-tenorio/FutLive/" alt="Futlive">
+  <p><a href="https://futlive.vercel.app" alt="Futlive">
       <img src="https://img.shields.io/badge/Futlive Web Scraping-ReactJS, node, Express, Cheerio-%23121011?style=for-the-badge&logo=Github&logoColor=white" /> 
   </a></p>
 
-  <p><a href="https://github.com/everton-tenorio/oscar-awards" alt="ow">
+  <p><a href="https://filmes-premiados.vercel.app/" alt="ow">
       <img src="https://img.shields.io/badge/Oscar_Awards Web Scraping-Vue, Flask, BeautifulSoup4, mongodb-%23121011.svg?style=for-the-badge&logo=Github&logoColor=white" /> 
   </a></p>
 
