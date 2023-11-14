@@ -28,7 +28,7 @@ I've been doing backend work, and occasionally dabbling in frontend too, involve
   </a></p>
 
   <p><a href="https://github.com/everton-tenorio/viaprodutos" alt="vp">
-      <img src="https://img.shields.io/badge/Via Produtos Web - Vue, Django, Django Rest Framework-68a152?style=for-the-badge&logo=Github&logoColor=white" /> 
+      <img src="https://img.shields.io/badge/Via Produtos Web - Vue, Django, Django Rest Framework, Docker-68a152?style=for-the-badge&logo=Github&logoColor=white" /> 
   </a></p>
   
 
