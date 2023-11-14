@@ -4,16 +4,33 @@ Working as a Tech Professional since 2018, primarily in IT Infrastructure. In 20
 
 I've been doing backend work, and occasionally dabbling in frontend too, involved in the whole software life cycle following DevOps principles with a focus on security best practices.
 
+
 <p align="left">
   <!--<a href="mailto:,@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>-->
 
+    
   <a href="https://www.linkedin.com/in/evertonst29/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"&link=everton-tenorio />
   </a>
 </p>
 
+
+
+> Some projects:
+  
+  <p><a href="https://github.com/everton-tenorio/FutLive/" alt="Futlive">
+      <img src="https://img.shields.io/badge/Futlive-Web Scraping-%23121011?style=for-the-badge&logo=Github&logoColor=white"/> 
+  </a> <sup>ReactJS, node, Express, Cheerio</sup></p>
+
+  <a href="https://github.com/everton-tenorio/FutLive/" alt="Futlive">
+      <img src="https://img.shields.io/badge/Oscar_Awards-Web Scraping-%23121011.svg?style=for-the-badge&logo=Github&logoColor=white"/> 
+  </a> <sup>Vue, Flask, BeautifulSoup4, mongodb</sup>
+  
+
 <!---### Hi there 👋
+
+https://img.shields.io/badge/githubs-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
 
 Always seeking theoretical and practical knowledge regarding software development best practices, devops culture, cloud computing, automation and troubleshooting.
           
