@@ -2,7 +2,6 @@ This is a selection of projects from my portfolio. I specialize in tasks that in
 
 I work in backend development, and occasionally in frontend as well, following DevOps principles and emphasizing security practices.
 
-
 <p align="left">
   <!--<a href="mailto:,@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>-->
@@ -11,7 +10,7 @@ I work in backend development, and occasionally in frontend as well, following D
   <a href="https://www.linkedin.com/in/evertonst29/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"&link=everton-tenorio />
   </a>
-</p>
+</p> Everton Tenorio - Junior Developer
 
 
 
