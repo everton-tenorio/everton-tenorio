@@ -10,11 +10,11 @@ I work in backend development, and occasionally in frontend as well, following D
   <a href="https://www.linkedin.com/in/evertonst29/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"&link=everton-tenorio />
   </a>
-</p> Everton Tenorio - Junior Developer
+</p> <sup>Everton Tenorio - Junior Developer</sup>
 
 
-
-> Some projects:
+---
+### Some projects:
   
   <p><a href="https://futlive.vercel.app" alt="Futlive">
       <img src="https://img.shields.io/badge/Futlive Web Scraping-ReactJS, node, Express, Cheerio-%23121011?style=for-the-badge&logo=Github&logoColor=white" /> 
