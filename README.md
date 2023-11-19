@@ -16,8 +16,8 @@ I work in backend development, and occasionally in frontend as well, following D
 ---
 ### Some projects:
   
-  <p><a href="https://futlive.vercel.app" alt="Futlive">
-      <img src="https://img.shields.io/badge/Futlive Web Scraping-ReactJS, node, Express, Cheerio-%23121011?style=for-the-badge&logo=Github&logoColor=white" /> 
+  <p><a href="https://futelive.vercel.app" alt="Futlive">
+      <img src="https://img.shields.io/badge/Futelive Web Scraping-ReactJS, node, Express, Cheerio-%23121011?style=for-the-badge&logo=Github&logoColor=white" /> 
   </a></p>
 
   <p><a href="https://filmes-premiados.vercel.app/" alt="ow">
