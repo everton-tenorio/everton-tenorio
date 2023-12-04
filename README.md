@@ -20,9 +20,9 @@ I work in backend development, and occasionally in frontend as well, following D
       <img src="https://img.shields.io/badge/Futelive Web Scraping-ReactJS, node, Express, Cheerio-%23121011?style=for-the-badge&logo=Github&logoColor=white" /> 
   </a></p>
 
-  <p><a href="https://filmes-premiados.vercel.app/" alt="ow">
+  <!--<p><a href="https://filmes-premiados.vercel.app/" alt="ow">
       <img src="https://img.shields.io/badge/Oscar_Awards Web Scraping-Vue, Flask, BeautifulSoup4, mongodb-%23121011.svg?style=for-the-badge&logo=Github&logoColor=white" /> 
-  </a></p>
+  </a></p>-->
 
   <p><a href="https://github.com/everton-tenorio/viaprodutos" alt="vp">
       <img src="https://img.shields.io/badge/Via Produtos Web - Vue, Django, Django Rest Framework, Docker-68a152?style=for-the-badge&logo=Github&logoColor=white" /> 
