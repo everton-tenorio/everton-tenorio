@@ -2,9 +2,9 @@ This is a selection of projects from my portfolio. I specialize in tasks that in
 
 I work in backend development, and occasionally in frontend as well, following DevOps principles and emphasizing security practices.
 
-<p align="left">
-  <!--<a href="mailto:,@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>-->
+<!--- <p align="left">
+  <--<a href="mailto:,@gmail.com" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>--
 
     
   <a href="https://www.linkedin.com/in/everton93/" alt="Linkedin">
@@ -20,16 +20,16 @@ I work in backend development, and occasionally in frontend as well, following D
       <img src="https://img.shields.io/badge/Futelive Web Scraping-ReactJS, node, Express, Cheerio-%23121011?style=for-the-badge&logo=Github&logoColor=white" /> 
   </a></p>
 
-  <!--<p><a href="https://filmes-premiados.vercel.app/" alt="ow">
+  <--<p><a href="https://filmes-premiados.vercel.app/" alt="ow">
       <img src="https://img.shields.io/badge/Oscar_Awards Web Scraping-Vue, Flask, BeautifulSoup4, mongodb-%23121011.svg?style=for-the-badge&logo=Github&logoColor=white" /> 
-  </a></p>-->
+  </a></p>--
 
   <p><a href="https://github.com/everton-tenorio/viaprodutos" alt="vp">
       <img src="https://img.shields.io/badge/Via Produtos Web - Vue, Django, Django Rest Framework, Docker-68a152?style=for-the-badge&logo=Github&logoColor=white" /> 
   </a></p>
   
 
-<!---### Hi there 👋
+<---### Hi there 👋
 
 https://img.shields.io/badge/githubs-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
 
