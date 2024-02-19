@@ -1,6 +1,5 @@
-This is a selection of projects from my portfolio. I specialize in tasks that involve web scraping, data analysis, security and APIs, with Python as my flagship language.
+This is a selection of projects from my portfolio. I specialize in tasks that involve web scraping, data analysis, security, with Python as my flagship language.
 
-I work in backend development, and occasionally in frontend as well, following DevOps principles and emphasizing security practices.
 
 <!--- <p align="left">
   <--<a href="mailto:,@gmail.com" alt="Gmail">
