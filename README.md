@@ -2,7 +2,7 @@ This is a selection of projects from my portfolio. I specialize in tasks that in
 
 <pre>
  👨🏽‍💻 Coding in Python and Javascript
- 📈 ⚽ Data Analysis in Football
+ 📈 ⚽ <a href="https://github.com/datagool">Data Analysis in Football</a>
  🛡️ With DevSecOps
 </pre>
 
