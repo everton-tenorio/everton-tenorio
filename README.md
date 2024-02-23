@@ -1,7 +1,7 @@
 This is a selection of projects from my portfolio. I specialize in tasks that involve web scraping, data analysis, devops and security, with Python as my flagship language.
 
 <pre>
- 👨🏽‍💻 Coding in <a href="https://github.com/everton-tenorio?tab=repositories&q=&type=public&language=python&sort=" target="_blank">Python</a> and <a href="https://github.com/everton-tenorio?tab=repositories&q=&type=public&language=javascript&sort=" target="_blank">Javascript</a>
+ 👨🏽‍💻 Coding in <a href="https://github.com/everton-tenorio?tab=repositories&q=&type=public&language=python&sort=" target="_blank">Python</a> and <a href="https://github.com/everton-tenorio?tab=repositories&q=&type=public&language=javascript&sort=" target="_blank">Javascript</a>(React, <a href="https://github.com/everton-tenorio?tab=repositories&q=&type=public&language=Vue&sort=">Vue</a>)
  📈 ⚽ <a href="https://github.com/datagool" target="_blank">Data Analysis in Football</a>
  🛡️ With DevSecOps
 </pre>
