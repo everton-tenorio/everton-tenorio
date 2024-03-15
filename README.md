@@ -1,37 +1,36 @@
-This is a selection of projects from my portfolio. I specialize in tasks that involve web development, web scraping, data analysis, devops and security, with Python as my flagship language.
-
 <pre>
  👨🏽‍💻 Coding in <a href="https://github.com/everton-tenorio?tab=repositories&q=&type=public&language=python&sort=" target="_blank">Python</a> and <a href="https://github.com/everton-tenorio?tab=repositories&q=&type=public&language=javascript&sort=" target="_blank">Javascript</a>(React, <a href="https://github.com/everton-tenorio?tab=repositories&q=&type=public&language=Vue&sort=">Vue</a>)
  📈 ⚽ <a href="https://github.com/datagool" target="_blank">Data Analysis in Football</a>
  🛡️ With DevSecOps practices
 </pre>
 
-<!--- <p align="left">
-  <--<a href="mailto:,@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>--
-
-    
-  <a href="https://www.linkedin.com/in/everton93/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"&link=everton-tenorio />
-  </a>
-</p> <sup>Everton Tenorio - Junior Developer</sup>
-
-
----
-### Some projects:
+<sup>`devops` `security` `web-scraping` `web-development` `data-analysis`</sup>  
+ 
+ #### 💻 Technologies & Tools
+ <div> 
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everton-tenorio&layout=compact&title_color=007bff&text_color=ffffff&icon_color=red&bg_color=000000">
   
-  <p><a href="https://futelive-eihaoboc2-everton-tenorios-projects.vercel.app" alt="Futlive">
-      <img src="https://img.shields.io/badge/Futelive Web Scraping-ReactJS, node, Express, Cheerio-%23121011?style=for-the-badge&logo=Github&logoColor=white" /> 
-  </a></p>
-
-  <--<p><a href="https://filmes-premiados.vercel.app/" alt="ow">
-      <img src="https://img.shields.io/badge/Oscar_Awards Web Scraping-Vue, Flask, BeautifulSoup4, mongodb-%23121011.svg?style=for-the-badge&logo=Github&logoColor=white" /> 
-  </a></p>--
-
-  <p><a href="https://github.com/everton-tenorio/viaprodutos" alt="vp">
-      <img src="https://img.shields.io/badge/Via Produtos Web - Vue, Django, Django Rest Framework, Docker-68a152?style=for-the-badge&logo=Github&logoColor=white" /> 
-  </a></p>
+  ![aws](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws) 
   
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)  
+
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql) 
+  
+  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+  ![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=Javascript) 
+
+  ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+  ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
+  ![Ansible](https://img.shields.io/badge/Ansible-black?style=flat-square&logo=ansible)
+  ![Terraform](https://img.shields.io/badge/Terraform-black?style=flat-square&logo=terraform)
+  ![Grafana](https://img.shields.io/badge/Grafana-black?style=flat-square&logo=grafana)
+  ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch)
+  ![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash)
+  ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana) 
+
+<!---   
 
 <---### Hi there 👋
 
