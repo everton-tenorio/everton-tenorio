@@ -8,7 +8,7 @@
  
  #### 💻 Technologies & Tools
  <div> 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everton-tenorio&layout=compact&title_color=000000&text_color=000000&icon_color=red&bg_color=dedede">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everton-tenorio&layout=compact&title_color=ffffff&text_color=ffffff&icon_color=red&bg_color=161b22">
   
   ![aws](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws) 
   
