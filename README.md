@@ -26,6 +26,7 @@
   ![Ansible](https://img.shields.io/badge/Ansible-black?style=flat-square&logo=ansible)
   ![Terraform](https://img.shields.io/badge/Terraform-black?style=flat-square&logo=terraform)
   ![Grafana](https://img.shields.io/badge/Grafana-black?style=flat-square&logo=grafana)
+  
   ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch)
   ![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash)
   ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana) 
