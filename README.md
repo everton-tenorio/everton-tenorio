@@ -8,7 +8,7 @@
  
  #### 💻 Technologies & Tools
  <div>  
-  <img align="left" src="https://i.ibb.co/gjKH4Qd/Screenshot-2024-03-21-at-16-10-09-Editing-everton-tenorio-README-md-at-main-everton-tenorio-everton.png" width="50%">
+  <img align="left" src="https://i.ibb.co/gjKH4Qd/Screenshot-2024-03-21-at-16-10-09-Editing-everton-tenorio-README-md-at-main-everton-tenorio-everton.png" width="550px">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everton-tenorio&layout=compact&title_color=ffffff&text_color=ffffff&icon_color=red&bg_color=161b22">
  </div>
  
