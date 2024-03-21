@@ -1,18 +1,18 @@
 <pre>
- 👨🏽‍💻 Coding in <a href="https://github.com/everton-tenorio?tab=repositories&q=&type=public&language=python&sort=" target="_blank">Python</a> and <a href="https://github.com/everton-tenorio?tab=repositories&q=&type=public&language=javascript&sort=" target="_blank">Javascript</a>(React, <a href="https://github.com/everton-tenorio?tab=repositories&q=&type=public&language=Vue&sort=">Vue</a>)
+ 👨🏽‍💻 Coding in <a href="https://github.com/everton-tenorio?tab=repositories&q=&type=public&language=python&sort=" target="_blank">Python</a> and <a href="https://github.com/everton-tenorio?tab=repositories&q=&type=public&language=javascript&sort=" target="_blank">Javascript</a> 
  📈 ⚽ <a href="https://github.com/datagool" target="_blank">Data Analysis in Football</a>
  🛡️ With DevSecOps practices
 </pre>
 
 <sup>`devops` `security` `web-scraping` `web-development` `data-analysis`</sup>  
  
- #### 💻 Technologies & Tools
  <div>  
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everton-tenorio&layout=compact&title_color=ffffff&text_color=ffffff&icon_color=red&bg_color=161b22">
  </div>
  
 <!--
 
+ #### 💻 Technologies & Tools
   <img align="left" src="https://i.ibb.co/gjKH4Qd/Screenshot-2024-03-21-at-16-10-09-Editing-everton-tenorio-README-md-at-main-everton-tenorio-everton.png" width="550px">
   Version  | Cloud | Database | Code | Server - IaC | ELK Stack
 --------- | ------ | ------ | ------ | ------ | ------
