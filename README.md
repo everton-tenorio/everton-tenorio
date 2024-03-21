@@ -8,11 +8,12 @@
  
  #### 💻 Technologies & Tools
  <div>  
-  <img align="left" src="https://i.ibb.co/gjKH4Qd/Screenshot-2024-03-21-at-16-10-09-Editing-everton-tenorio-README-md-at-main-everton-tenorio-everton.png" width="550px">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everton-tenorio&layout=compact&title_color=ffffff&text_color=ffffff&icon_color=red&bg_color=161b22">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everton-tenorio&layout=compact&title_color=ffffff&text_color=ffffff&icon_color=red&bg_color=161b22">
  </div>
  
 <!--
+
+  <img align="left" src="https://i.ibb.co/gjKH4Qd/Screenshot-2024-03-21-at-16-10-09-Editing-everton-tenorio-README-md-at-main-everton-tenorio-everton.png" width="550px">
   Version  | Cloud | Database | Code | Server - IaC | ELK Stack
 --------- | ------ | ------ | ------ | ------ | ------
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) | ![aws](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql) | ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) | ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) | ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch)
