@@ -1,7 +1,7 @@
 <pre>
  👨🏽‍💻 Coding in <b>Python</b> and <b>Javascript</b> 
  📈 Exp. with <b>Data Engineering and Analysis</b>
- 🛡️ With <b>DevOps</b> and <b>Security</b> practices
+ 🛡️ Applying <b>DevOps</b> and <b>Security</b> practices
 </pre>
 
 <sup>`devops` `security` `web-scraping` `web-development` `data-analysis`</sup>  
