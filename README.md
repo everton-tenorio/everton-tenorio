@@ -1,6 +1,6 @@
 <pre>
- 👨🏽‍💻 Coding in <a href="https://github.com/everton-tenorio?tab=repositories&q=&type=public&language=python&sort=" target="_blank">Python</a> and <a href="https://github.com/everton-tenorio?tab=repositories&q=&type=public&language=javascript&sort=" target="_blank">Javascript</a> 
- 📈 ⚽ <a href="https://github.com/futebytes" target="_blank">Football Data Analysis</a>
+ 👨🏽‍💻 Coding in <b>Python</b> and <b>Javascript</b> 
+ 📈 <b>Data Analysis</b>
  🛡️ With <b>DevOps</b> and <b>Security</b> practices
 </pre>
 
