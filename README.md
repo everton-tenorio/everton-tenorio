@@ -1,6 +1,6 @@
 <pre>
  👨🏽‍💻 Coding in <b>Python</b> and <b>Javascript</b> 
- 📈 <b>Data  Engineering and Analysis</b>
+ 📈 <b>Data Engineering and Analysis</b>
  🛡️ With <b>DevOps</b> and <b>Security</b> practices
 </pre>
 
