@@ -4,7 +4,7 @@
  🛡️ With <b>DevOps</b> and <b>Security</b> practices
 </pre>
 
-<sup>`devops` `security` `web-scraping` `web-development` `django` `flask`</sup>  
+<sup>`devops` `security` `web-scraping` `web-development` `data-analysis`</sup>  
  
  <div>  
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everton-tenorio&layout=compact&title_color=ffffff&text_color=ffffff&icon_color=red&bg_color=161b22">
