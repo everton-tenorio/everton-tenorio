@@ -1,10 +1,10 @@
-<pre>
+<!--<pre>
  👨🏽‍💻 Coding in <b>Python</b> and <b>Javascript</b> 
  📈 Exp. with <b>Data Engineering and Analysis</b>
  🛡️ Applying <b>DevOps</b> and <b>Security</b> practices
-</pre>
+</pre>-->
 
-<sup>`devops` `security` `web-scraping` `web-development` `data-analysis`</sup>  
+<sup>`web dev` `web scraping` `data extraction` `devsecops`</sup>  
  
  <div>  
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=everton-tenorio&layout=compact&title_color=ffffff&text_color=ffffff&icon_color=red&bg_color=161b22">
